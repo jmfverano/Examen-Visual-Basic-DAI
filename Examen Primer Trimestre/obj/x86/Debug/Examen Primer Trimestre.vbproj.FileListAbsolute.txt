@@ -1,0 +1,39 @@
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.exe
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.pdb
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.xml
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Form1.resources
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Resources.resources
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.exe
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.xml
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.pdb
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Informe_Ventas.resources
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.exe
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.xml
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.pdb
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.exe
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.pdb
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.xml
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Form1.resources
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Informe_Ventas.resources
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Resources.resources
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.exe
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.xml
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.pdb
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.exe
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.pdb
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\bin\Debug\Examen Primer Trimestre.xml
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Form1.resources
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Informe_Ventas.resources
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen_Primer_Trimestre.Resources.resources
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrador\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.exe
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.xml
+C:\Users\Xhaman\Dropbox\Ciclo Formativo Grado Superior DAI\Segundo\DRS\Visual Basic 2010\Examen Trimestre\Examen Primer Trimestre\Examen Primer Trimestre\obj\x86\Debug\Examen Primer Trimestre.pdb
